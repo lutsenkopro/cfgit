@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Галки" id="4957cc97-6bac-44c3-9f06-1f52dc8e6a1c" configVersion="37a1b004e856ec4381844f5056b8c3d600000000">
+			<Metadata name="Catalog.Галки.Attribute.РеквизитГалка" id="abcb7ca9-83c7-4c94-9eba-e03eba5cdf3c"/>
+		</Metadata>
+		<Metadata name="Configuration.cfgit" id="60aba9e7-3dfd-4756-aa8a-5918f8148a27" configVersion="64a9031a4bd52b4db80ee43b4454dca500000000"/>
+		<Metadata name="Configuration.cfgit.CommandInterface" id="2f133c56-9eab-4b5b-9be6-83a52c813a84.a" configVersion="fa180e06155ffd4b9d4fee98dc14ff1100000000"/>
+		<Metadata name="Configuration.cfgit.ExternalConnectionModule" id="2f133c56-9eab-4b5b-9be6-83a52c813a84.5" configVersion="3f1dd7c4442a00479f8673e26607b3fd00000000"/>
+		<Metadata name="Configuration.cfgit.MainSectionCommandInterface" id="2f133c56-9eab-4b5b-9be6-83a52c813a84.9" configVersion="6269510d5f35154d9434460960e2d7f500000000"/>
+		<Metadata name="Configuration.cfgit.ManagedApplicationModule" id="2f133c56-9eab-4b5b-9be6-83a52c813a84.6" configVersion="8407e5f19cff6143b0bd76743957d1e700000000"/>
+		<Metadata name="Configuration.cfgit.SessionModule" id="2f133c56-9eab-4b5b-9be6-83a52c813a84.7" configVersion="ad026e4e5443534cb4a6c9e2fdfadd2b00000000"/>
+		<Metadata name="Language.Русский" id="6a21ca7b-db47-410c-bbf0-c7849f77debe" configVersion="2ecf8d32b521cf43bb90e8a86180114f00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
