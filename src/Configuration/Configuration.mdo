@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Галки</catalogs>
+  <documents>Document.Галка</documents>
 </mdclass:Configuration>

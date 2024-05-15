@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b6c1c530-ff57-4d4f-9f3a-907a718c8b0f">
+  <producedTypes>
+    <objectType typeId="213caf9d-f87a-404c-9927-fd393d264390" valueTypeId="3e7e676d-4df7-4f5a-a5a0-5eddc166aaf8"/>
+    <refType typeId="479d3eaa-a00d-45d5-a36c-e73a19f1bb1e" valueTypeId="8d78f539-487c-4918-86b8-4f0c19749173"/>
+    <selectionType typeId="bf937c73-d82f-4727-9cb0-4aaca27344dd" valueTypeId="578e2e88-6017-47ab-9606-fa4416b1e306"/>
+    <listType typeId="65b688d6-1ca6-4273-97fb-e51d7b8d6c54" valueTypeId="6a2aa772-c67b-4bd9-a3fd-2e63f907057f"/>
+    <managerType typeId="ef6cf9fd-5f72-4762-b8df-32df658534da" valueTypeId="f6789033-2708-4dfb-9908-b5cd8564f5a1"/>
+  </producedTypes>
+  <name>Галка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Галка</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Галка.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="8ccfe7ed-334a-4efa-bb77-f2f3ebfe59dc">
+    <name>Галки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Галки</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Галки</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>
