@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4957cc97-6bac-44c3-9f06-1f52dc8e6a1c">
+  <producedTypes>
+    <objectType typeId="a4ee1a22-7125-4075-b8a8-8147eeb50412" valueTypeId="7a93b315-eb0e-4776-aa1f-3e096b7dd8be"/>
+    <refType typeId="f18b99e5-9cb9-46dc-989e-aa04baac16b1" valueTypeId="563e1705-e89b-4a90-9c1c-fca91b05742b"/>
+    <selectionType typeId="60d7ebb5-bb2f-453b-a58d-076d96641f0c" valueTypeId="3e7eeff7-de8b-42a1-9fa3-21df2ba8656d"/>
+    <listType typeId="8bce52a4-205f-4fa3-8ab3-b133a67cd841" valueTypeId="4c78368b-2f9a-461f-878c-e99769e921bd"/>
+    <managerType typeId="ff923970-e48c-439d-b0ae-de7409cf85d5" valueTypeId="ccff0440-40c6-4d55-a37a-8d81b362292a"/>
+  </producedTypes>
+  <name>Галки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Галки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Галки.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Галки.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="abcb7ca9-83c7-4c94-9eba-e03eba5cdf3c">
+    <name>РеквизитГалка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит галка</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>
